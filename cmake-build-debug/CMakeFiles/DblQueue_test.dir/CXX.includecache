@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kis/CLionProjects/project6/DblQueue.cpp
+cstddef
+-
+stdexcept
+-
+DblQueue.h
+/Users/kis/CLionProjects/project6/DblQueue.h
+
+/Users/kis/CLionProjects/project6/DblQueue.h
+cstddef
+-
+

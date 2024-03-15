@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kis/CLionProjects/project6/DblQueue.h
+cstddef
+-
+
+/Users/kis/CLionProjects/project6/GuitarString.h
+DblQueue.h
+/Users/kis/CLionProjects/project6/DblQueue.h
+
+/Users/kis/CLionProjects/project6/GuitarStringTest.cpp
+GuitarString.h
+/Users/kis/CLionProjects/project6/GuitarString.h
+iostream
+-
+
